@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://me.stfw.info.cdn.cloudflare.net/sitemap.xml
